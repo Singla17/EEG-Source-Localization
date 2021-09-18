@@ -1,2 +1,2 @@
 # ELL319_Term_Project
-EEG Source Localization
+EEG Source Localization using Deep learning Techniques
